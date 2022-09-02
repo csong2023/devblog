@@ -49,5 +49,3 @@ The `person`
 
 ![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1J-14pUXHNmS6MQ49hiI0M3YtZIixXZVAPw5g7BAQ&s)
 
-`#0969DA`
-`rgb(9, 105, 218)`
