@@ -52,7 +52,3 @@ The `person`
 <span style="color: red">red
 <span style="color: blue">blue
 
-<figure align = "center">
-<img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Emblem.png", style="width:100">
-<figcaption></b>Github Link</b></figcaption>
-</tigure>
