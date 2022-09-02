@@ -18,4 +18,4 @@ categories: Study
 
 - Statistically significant dif- ferences were observed for the different CMG (p<0.001) and within the CMG for the different age groups for Memory Sweep (p = 0.013), Babble Bots (p < 0.001) and Unique (p < 0.001).
 
-![table2](/devlog/assets/table2.png)
+![table2](/devblog/assets/table2.png)
