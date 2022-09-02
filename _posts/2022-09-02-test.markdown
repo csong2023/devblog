@@ -8,5 +8,46 @@ categories: Development
 ## Header 2
 ### Header 3
 
+*italic*
+
 > quote 1
 > quote 2
+
+1. number 1
+1. number 2
+1. number 3
+
+# Header
+
+1. number 1
+2. number 2
+
+- asdf
+    - asdf
+        - asdf
+            - asdf
+```js
+let x = "MyName"
+```
+
+```py
+while x:
+```
+
+```c++
+for (i = 0; i < n; i++)
+```
+
+The `person` 
+
+[Link](https://pages.github.com)
+
+~~Strikethrough~~
+
+<sub>this is subscripted
+<sup>this is superscripted
+
+![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1J-14pUXHNmS6MQ49hiI0M3YtZIixXZVAPw5g7BAQ&s)
+
+`#0969DA`
+`rgb(9, 105, 218)`
