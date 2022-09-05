@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finger Tapping as a Biomarker to Classify Cognitive Status in 80+-Year-Olds"
-date:   2022-09-02 19:42:38 +0900
+date:   2022-09-04 19:42:38 +0900
 categories: Study
 ---
 
@@ -20,6 +20,8 @@ categories: Study
 - The MoCA is the second-most-utilized geriatric cognitive screening tool after the Mini-Mental State Examination (MMSE) and has superior sensitivity to mild cognitive impairments. `Breton, A.; Casey, D.; Arnaoutoglou, N.A. Cognitive tests for the detection of mild cognitive impairment (MCI), the prodromal stage of dementia: Meta-analysis of diagnostic accuracy studies. Int. J. Geriatr. Psychiatry 2019, 34, 233–242.`
 - MCI classification was based on the recommendations of The National Institute on Aging and the Alzheimer’s Association `Albert, M.S.; DeKosky, S.T.; Dickson, D.; Dubois, B.; Feldman, H.H.; Fox, N.C.; Gamst, A.; Holtzman, D.M.; Jagust, W.J.; Petersen, R.C.; et al. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: Recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 270–279.`
 
+![table2](/devblog/assets/table4.png)
+
 ---
 
 ## Result
@@ -33,3 +35,4 @@ categories: Study
 ## Discussion
 
 - When the algorithm was used to classify individual participants, it was correct in only 50% of cases. This shows that tapping parameters were only partially useful for classification.
+- However, the planned goal of classifying individual participants based on tapping parameters was only partially achieved. Thus, while 49 of 79 CHI participants were correctly classified on the basis of their motor performance, 30 of these participants were classified as pMCI or MCI.
