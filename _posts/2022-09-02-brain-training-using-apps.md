@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "brain training using apps"
-date:   2022-09-02 19:42:38 +0900
+title:  "Finger Tapping as a Biomarker to Classify Cognitive Status in 80+-Year-Olds"
+date:   2022-09-05 19:42:38 +0900
 categories: Study
 ---
 
-> reference: Bruno Bonnechère et al. 2021. **Brain training using cognitive apps can improve cognitive performance and processing speed in older adults**
+> reference: Dieter F. Kutz et al. 2022. **Finger Tapping as a Biomarker to Classify Cognitive Status in 80+-Year-Olds**
 
 ## Introduction
 
 - It is therefore important to identify people with pre-dementia (e.g., persons with mild cognitive impairments, or MCI) early enough so they can start programs that will help them maintain their personal lifestyle and that will continuously assess the course of the dementia as it progresses.
 - In many therapeutic areas, diseases and treatments are evaluated using patient- reported outcome (PRO) measures (subjective measures), collected, for example, via questionnaires `Frank, L.; Lenderking, W.R.; Howard, K.; Cantillon, M. Patient self-report for evaluating mild cogitive impairment and prodromal Alzheimer’s disease. Alzheimers Res. Ther. 2011, 3, 12.`
+- In this study we aimed to use tapping parameters to distinguish between participants over 80 years old who were either cognitively healthy individuals (CHI), mild cognitive impaired individuals (MCI) or had possible MCI (pMCI), in two different conditions: as consistently as possible at a self-selected pace or as fast as possible without considering consistency (fast pace).
 
 ---
 
