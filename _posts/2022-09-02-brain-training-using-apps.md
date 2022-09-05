@@ -9,21 +9,26 @@ categories: Study
 
 ## Introduction
 
-- Users who trained with the games improved regardless of age in terms of scores and processing speed throughout the 100 sessions, suggesting that old and very old adults can improve their cognitive performance using CMG in real-life use.
-- According to the World Health Organization (WHO), the world population aged over 60 years will have doubled in number by 2050, with an estimated total of 2 billion people. `WHO.AgeingandHealth(WHO,2018).`
+- It is therefore important to identify people with pre-dementia (e.g., persons with mild cognitive impairments, or MCI) early enough so they can start programs that will help them maintain their personal lifestyle and that will continuously assess the course of the dementia as it progresses.
+- In many therapeutic areas, diseases and treatments are evaluated using patient- reported outcome (PRO) measures (subjective measures), collected, for example, via questionnaires `Frank, L.; Lenderking, W.R.; Howard, K.; Cantillon, M. Patient self-report for evaluating mild cogitive impairment and prodromal Alzheimer’s disease. Alzheimers Res. Ther. 2011, 3, 12.`
+
+---
+
+## Materials and Methods
+
+- The MoCA is the second-most-utilized geriatric cognitive screening tool after the Mini-Mental State Examination (MMSE) and has superior sensitivity to mild cognitive impairments. `Breton, A.; Casey, D.; Arnaoutoglou, N.A. Cognitive tests for the detection of mild cognitive impairment (MCI), the prodromal stage of dementia: Meta-analysis of diagnostic accuracy studies. Int. J. Geriatr. Psychiatry 2019, 34, 233–242.`
+- MCI classification was based on the recommendations of The National Institute on Aging and the Alzheimer’s Association `Albert, M.S.; DeKosky, S.T.; Dickson, D.; Dubois, B.; Feldman, H.H.; Fox, N.C.; Gamst, A.; Holtzman, D.M.; Jagust, W.J.; Petersen, R.C.; et al. The diagnosis of mild cognitive impairment due to Alzheimer’s disease: Recommendations from the National Institute on Aging-Alzheimer’s Association workgroups on diagnostic guidelines for Alzheimer’s disease. Alzheimers Dement. 2011, 7, 270–279.`
 
 ---
 
 ## Result
 
-- Statistically significant dif- ferences were observed for the different CMG (p<0.001) and within the CMG for the different age groups for Memory Sweep (p = 0.013), Babble Bots (p < 0.001) and Unique (p < 0.001).
+- In the self-selected pace condition, the groups did not behave differently: CHI performed 86.5 ± 4.1 taps on average (mean ± standard error of the mean (SEM)), pMCI 74.3 ± 3.4 taps, and MCI 74.9 ± 4.6 taps. In contrast, in the fast pace condition, MCI produced 114 ± 4.2 taps, significantly less than CHI (127 ± 3.2 taps, paired t-test with Bonferroni’s correction, p = 0.019). pMCI (119 ± 2.9 taps) was not different compared with the other two groups.
 
-![table2](/devblog/assets/table2.png)
+![table2](/devblog/assets/table3.png)
 
 ---
 
 ## Discussion
 
-- Though the changes in different cognitive abilities over the lifespan are relatively well-documented , there is less evidence on the plasticity of these different cognitive functions across the lifespan 23–25. Furthermore, it has not yet been established whether all cognitive functions can be trained or the extent to which progress can be achieved in healthy subjects of different ages.
-
-    > Rizeq,J.,Flora,D.B.&Toplak,M.E.Changing relations among cognitive abilities across development: Implications for measurement and research. Clin. Neuropsychol. 31, 1353–1374 (2017).
+- When the algorithm was used to classify individual participants, it was correct in only 50% of cases. This shows that tapping parameters were only partially useful for classification.
