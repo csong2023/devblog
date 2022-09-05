@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Finger Tapping as a Biomarker to Classify Cognitive Status in 80+-Year-Olds"
-date:   2022-09-05 19:42:38 +0900
+date:   2022-09-02 19:42:38 +0900
 categories: Study
 ---
 
