@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exemplar Tutorial for Brain-Related Gameplay: MAP"
-date:   2022-09-13 01:07:22 +0900
+date:   2022-09-12 01:07:22 +0900
 categories: Study
 ---
 
