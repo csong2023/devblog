@@ -14,12 +14,14 @@ The game is called: **MAP** from Simon Tatham's Portable Puzzle Collection `http
 ## Initial Setting
 
 ![image1](/devblog/assets/game_initial.png)
+
 *Figure 1: An example initial position*
 As shown in figure 1, the game generates a set of tites with some of them filled in with colors. The colors' options are green, red, yellow, and brown. These originally placed colors can not be changed, and the objective of the game is to create a color map by filling in colors with no adjacent sides having the same color.
 
 ## Placing a Color
 
 ![image1](/devblog/assets/game_drag.png)
+
 *Figure 2: A drag cursor*
 In order to complete this task, the player can drag a certain color, where their cursors will move around this color into the tile they want to place it in.
 
@@ -30,21 +32,24 @@ In order to complete this task, the player can drag a certain color, where their
 ### If NOT Satisfactory
 
 ![image1](/devblog/assets/game_wrong.png)
-*Figure 2: A warning sign*
+
+*Figure 3: A warning sign*
 
 - However, if this is not the case and the adjacent block has the same color as the current block, then a warning sign will appear on the border that the two same-colored cubes are touching.
 
 ## Completion of the Game
 
 ![image1](/devblog/assets/game_comp.png)
-*Figure 2: A complete set of tiles*
+
+*Figure 4: A complete set of tiles*
 
 If all of the tiles are properly colored as shown above, then the game ends with a flash animation (strong flash on the screen)
 
 ## Additional Controls
 
 ![image1](/devblog/assets/game_controls.png)
-*Figure 2: Game Controls*
+
+*Figure 5: Game Controls*
 
 Also, there are additional controls to the game:
 
