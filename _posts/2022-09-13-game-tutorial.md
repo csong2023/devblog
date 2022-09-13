@@ -51,7 +51,7 @@ If all of the tiles are properly colored as shown above, then the game ends with
 
 *Figure 5: Game Controls*
 
-Also, there are additional controls to the game:
+- Also, there are additional controls to the game:
 
 - New Game: Generates a new puzzle at its starting position.
 - Restart Game: Generates the same puzzle as the start.
