@@ -32,6 +32,7 @@ As shown in figure 2, the structure of the application screen was first construc
 ## UI: Visual
 
 Then, we finally focused on the visual elements of the UI. Not only the styllic features were important, but the techinical accuracy of the design was also critical in creating an user-friendly environment.
+
 ![image1](/devblog/assets/newui2.png)
 
 *Figure 3: An example of an updated UI visual*
