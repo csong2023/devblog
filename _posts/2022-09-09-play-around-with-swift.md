@@ -30,7 +30,7 @@ struct ContentView: View {
 }
 ```
 
-![view1](/devblog/assets/swift-tutorial/view.png)
+![image1](/devblog/assets/view.png)
 
 write summary and overall goal of the codes written above
 
