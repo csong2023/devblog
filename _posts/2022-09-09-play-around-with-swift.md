@@ -9,7 +9,7 @@ categories: Study
 
 ---
 
-Introduce what you are going to explain in this article.
+Today, I tested the basic features of swift, a programming language used to create applications for apple products. XCode was used in this process, where I used the iPhone 13 Pro environment for the programming. The primary focus was on the visual aspects, rather than functions.
 
 ## View (or any other topic you want to write about)
 
@@ -30,9 +30,9 @@ struct ContentView: View {
 }
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/view.png)
 
-![image1](/devblog/assets/table2.png)
+Creating a basic text cell, with applying different texual features.
 
 ## Shape
 
@@ -47,7 +47,9 @@ struct ShapeTutorial: View {
 }
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/shape.png)
+
+Creating a basic shape, while also adding decorative features such as borders, color and size.
 
 ## Image
 
@@ -63,7 +65,9 @@ struct ImageTutorial: View {
 }
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/image.png)
+
+Added a image in the center, using different cell shapes for the image.
 
 ## Button
 
@@ -89,7 +93,9 @@ struct ButtonTutorial: View {
 }
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/button.png)
+
+Created a button for the user, with decorative elements.
 
 ## Stack
 
@@ -125,7 +131,9 @@ struct StackTutorial: View {
 
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/stack.png)
+
+Used the stack function to stack different objects created beforehand.
 
 ---
 
@@ -181,10 +189,12 @@ struct hw1: View {
 
 ```
 
-write summary and overall goal of the codes written above
+![image1](/devblog/assets/swift/extended.png)
+
+Used a greater variety of stacks, including those in all three directions (vertical, horizontal, stack-on-top).
 
 ---
 
 ## Conclusion
 
-wrap up what you have learned today. 4-5 sentences.
+Through these experimentations with swift, I was able to create several screens of applications screens, with considering visual elements for the user. While certain functions are limited in the Korean language, most of the functions were available as shown above. Later, this should extend to switching between screens through user control (buttons).

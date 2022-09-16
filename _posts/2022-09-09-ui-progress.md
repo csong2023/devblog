@@ -16,7 +16,6 @@ A UX is a "User experience" that encompasses all aspects of the end-user's inter
 As shown in figure 1, a UX design allows a designer to map out the process and function of an app, as the menus are interconnected in the form of networks.
 
 ![image1](/devblog/assets/ux1.png)
-
 *Figure 1: An example UX structure*
 
 ## UI: Structure
@@ -26,7 +25,6 @@ The user interface (UI) is the point of human-computer interaction and communica
 As shown in figure 2, the structure of the application screen was first constructured with ideas of where to locate each individual menu.
 
 ![image1](/devblog/assets/newui1.png)
-
 *Figure 2: An example of an updated UI structure*
 
 ## UI: Visual
@@ -34,5 +32,4 @@ As shown in figure 2, the structure of the application screen was first construc
 Then, we finally focused on the visual elements of the UI. Not only the styllic features were important, but the techinical accuracy of the design was also critical in creating an user-friendly environment.
 
 ![image1](/devblog/assets/newui2.png)
-
 *Figure 3: An example of an updated UI visual*
