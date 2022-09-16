@@ -32,7 +32,7 @@ struct ContentView: View {
 
 write summary and overall goal of the codes written above
 
-![image1](./devblog/assets/view.png)
+![image1](/devblog/assets/view.png)
 
 ## Shape
 
