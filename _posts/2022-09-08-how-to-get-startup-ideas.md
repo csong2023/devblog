@@ -10,7 +10,6 @@ categories: Study
 - In order to start a startup, one should identity problems instead of searching for startup ideas.
 - The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and are not recognized by others.
 
-
 ## Problems
 
 Therefore, it is essential to work on a identifiable, authentic problem. The most common mistake startups make is to solve problems no one has. For example, a social network for pet owners. It doesn't sound obviously mistaken. Millions of people have pets. Often they care a lot about their pets and spend a lot of money on them. Surely many of these people would like a site where they could talk to other pet owners. The danger of an idea like this is that when you run it by your friends with pets, they don't say "I would never use this." They say "Yeah, maybe I could see using something like that." Even when the startup launches, it will sound plausible to a lot of people. They don't want to use it themselves, at least not right now, but they could imagine other people wanting it. Sum that reaction across the entire population, and you have zero users.
