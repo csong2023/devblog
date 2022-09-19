@@ -20,7 +20,9 @@ As shown in figure 1, the game generates a set of tites with some of them filled
 ## Placing a Color
 
 ![image1](/devblog/assets/game_drag.png)
-*Figure 2: A drag cursor*
+
+Figure 2: A drag cursor
+
 In order to complete this task, the player can drag a certain color, where their cursors will move around this color into the tile they want to place it in.
 
 ### If Satisfactory
@@ -30,7 +32,8 @@ In order to complete this task, the player can drag a certain color, where their
 ### If NOT Satisfactory
 
 ![image1](/devblog/assets/game_wrong.png)
-*Figure 3: A warning sign*
+
+Figure 3: A warning sign
 
 - However, if this is not the case and the adjacent block has the same color as the current block, then a warning sign will appear on the border that the two same-colored cubes are touching.
 
